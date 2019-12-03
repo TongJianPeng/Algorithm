@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e61b8a3-e81a-4459-a795-05ea58c2b165" name="Default Changelist" comment="" />
+    <list default="true" id="7e61b8a3-e81a-4459-a795-05ea58c2b165" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/company/metric/MultiMetricNumFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/MultiMetricNumFind.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
   </component>
   <component name="RunManager" selected="Application.Test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.metric.MultiMetricNumFind" />
+      <option name="MAIN_CLASS_NAME" value="array.MultiMetricNumFind" />
       <module name="Solution" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -52,7 +54,7 @@
       <module name="Solution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.metric.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575364315692</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add package &quot;metric&quot;">
+      <created>1575364582269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575364582269</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
